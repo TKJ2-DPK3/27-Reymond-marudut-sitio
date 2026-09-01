@@ -1,0 +1,12 @@
+nama = input("Masukkan Nama: ")
+kelas = input("Masukkan Kelas: ")
+umur = int(input("Masukkan Umur: "))
+jurusan = input("Masukkan Jurusan: ")
+hobby = input("Masukkan Hobby: ")
+
+print("\n======= MY PROFILE =======")
+print("Nama    :", nama)
+print("Kelas   :", kelas)
+print("Umur    :", umur)
+print("Jurusan :", jurusan)
+print("Hobby   :", hobby)
